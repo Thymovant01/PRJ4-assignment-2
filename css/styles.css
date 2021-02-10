@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: black;
+}
+.everything {
+	color: white;
+	text-align: center;
+}
+#header {
+	color: black;
+	background-color: white;
+	text-align: center;
+	border: 2px solid gray;
+}
+.container {
+	color: white;
+	background-color: dimgray;
+	border: 1px solid #F4F4F4;
+	text-align: center;
+	padding: 0.2em;
+}
+.sub-container {
+	background-color: dimgray;
+	border: 1px solid #F4F4F4;
+	text-align: center;
+	padding: 0.2em;
+}
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
