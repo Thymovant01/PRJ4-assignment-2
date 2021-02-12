@@ -27,13 +27,6 @@ body {
 	margin-bottom: 20px;
 	margin-top: 0px;
 }
-.link {
-	color: white;
-	background-color: #bbbb77;
-	padding: 5px;
-	width: 300px;
-	margin-left: 450px;
-}
 .footer {
 	color: white;
 	text-align: center;
@@ -81,4 +74,13 @@ body {
 	color: white;
 	padding: 5px;
 	margin: 5px;
+}
+.link {
+	color: white;
+	background-color: #bbbb77;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 5px;
 }
