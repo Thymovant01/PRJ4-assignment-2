@@ -1,34 +1,84 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-	background-color: black;
-}
-.everything {
-	color: white;
-	text-align: center;
-}
-#header {
-	color: black;
-	background-color: white;
-	text-align: center;
-	border: 2px solid gray;
+	background-color: #33331a;
 }
 .container {
 	color: white;
-	background-color: darkblue;
+	background-color: #bbbb77;
 	border: 1px solid #F4F4F4;
 	text-align: center;
 	padding: 0.2em;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
 }
-.sub-container {
-	background-color: dimgrey;
-	border: 1px solid #F4F4F4;
-	text-align: center;
-	padding: 0.2em;
-}
-.image {
+#image {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+}
+.top {
+	color: white;
+	background-color: #bbbb77;
+	text-align: center;
+	border: 2px solid white;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+.link {
+	color: white;
+	background-color: #bbbb77;
+	padding: 5px;
+	width: 300px;
+	margin-left: 450px;
+}
+.footer {
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	background-color: #bbbb77;
+	margin: 20px 0;
+}
+.topnav {
+	background-color: #bbbb77;
+	overflow: hidden;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 275px;
+	border:thick solid white;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: white;
+}
+.topnav a.image {
+	background-color: #878745;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+.topnav a.containers {
+	background-color: #878745;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+.topnav a.link {
+	background-color: #878745;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+.topnav a.footer {
+	background-color: #878745;
+	color: white;
+	padding: 5px;
+	margin: 5px;
 }
