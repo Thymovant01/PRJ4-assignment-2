@@ -32,6 +32,7 @@ body {
 }
 .top {
 	background-image: url("../images/background.jpeg");
+	 background-size: cover;
 	font-family: 'Lato', sans-serif;
 	color: white;
 	background-color: #bbbb77;
