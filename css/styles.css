@@ -7,12 +7,12 @@
 	font-size: 100%; 
 }
 body {
-	background-color: gray;
+	background-color: ghostwhite;
 }
 .container {
 	font-family: 'Lato', sans-serif;
-	color: white;
-	background-color: lightgray;
+	color: dodgerblue;
+	background-color: white;
 	border: 1px solid #F4F4F4;
 	text-align: center;
 	padding: 10px;
@@ -21,7 +21,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 2px solid cornflowerblue;
+	border: 3px solid cornflowerblue;
 }
 #image {
 	display: block;
@@ -32,33 +32,31 @@ body {
 	margin-bottom: 20px;
 }
 .top {
-	background-image: url("../images/background.jpeg");
-	background-size: cover;
+	
+	
 	font-family: 'Lato', sans-serif;
-	color: white;
-	background-color: #bbbb77;
+	color: dodgerblue;
 	text-align: center;
 	border: 5px solid cornflowerblue;
 	margin-bottom: 20px;
 	padding: 10px;
 }
 .footer {
-	background-image: url("../images/background.jpeg");
-	background-size: cover;
+
+	
 	font-family: 'Lato', sans-serif;
-	color: white;
+	color: dodgerblue;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1px;
-	background-color: lightgray;
 	margin-top: 10px;
 	border: 5px solid cornflowerblue;
 	padding: 10px;
 }
 .topnav {
 	font-family: 'Lato', sans-serif;
-	background-color: lightgray;
+	background-color: white;
 	overflow: hidden;
 	text-align: center;
 	padding: 10px;
@@ -66,10 +64,10 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 300px;
-	border: 2px solid cornflowerblue;
+	border: 3px solid cornflowerblue;
 }
 .topnav a:hover {
-  background-color: gray;
+  background-color: lightgray;
   color: white;
 }
 .topnav a.image {
@@ -98,12 +96,12 @@ body {
 }
 .link {
 	font-family: 'Lato', sans-serif;
-	color: white;
-	background-color: lightgray;
+	color: dodgerblue;
+	background-color: white;
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 	padding: 10px;
-	border: 2px solid cornflowerblue;
+	border: 3px solid cornflowerblue;
 }
