@@ -5,6 +5,7 @@ body {
 	background-color: #33331a;
 }
 .container {
+	font-family: 'Lato', sans-serif;
 	color: white;
 	background-color: #bbbb77;
 	border: 1px solid #F4F4F4;
@@ -15,6 +16,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
+	border: 2px solid white;
 }
 #image {
 	display: block;
@@ -24,6 +26,7 @@ body {
 	height: 50%;
 }
 .top {
+	font-family: 'Lato', sans-serif;
 	color: white;
 	background-color: #bbbb77;
 	text-align: center;
@@ -32,6 +35,7 @@ body {
 	margin-top: 0px;
 }
 .footer {
+	font-family: 'Lato', sans-serif;
 	color: white;
 	text-align: center;
 	margin-left: auto;
@@ -39,8 +43,10 @@ body {
 	padding: 1px;
 	background-color: #bbbb77;
 	margin: 20px 0;
+	border: 2px solid white;
 }
 .topnav {
+	font-family: 'Lato', sans-serif;
 	background-color: #bbbb77;
 	overflow: hidden;
 	text-align: center;
@@ -48,8 +54,8 @@ body {
 	margin-bottom: 20px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 275px;
-	border:thick solid white;
+	width: 300px;
+	border: 2px solid white;
 }
 .topnav a:hover {
   background-color: #ddd;
@@ -67,19 +73,20 @@ body {
 	padding: 5px;
 	margin: 5px;
 }
-.topnav a.link {
+.topnav a.link-word {
 	background-color: #878745;
 	color: white;
 	padding: 5px;
 	margin: 5px;
 }
-.topnav a.footer {
+.topnav a.footer-word {
 	background-color: #878745;
 	color: white;
 	padding: 5px;
 	margin: 5px;
 }
 .link {
+	font-family: 'Lato', sans-serif;
 	color: white;
 	background-color: #bbbb77;
 	width: 400px;
@@ -87,4 +94,5 @@ body {
 	margin-right: auto;
 	text-align: center;
 	padding: 5px;
+	border: 2px solid white;
 }
