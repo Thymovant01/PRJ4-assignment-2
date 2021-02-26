@@ -29,20 +29,22 @@ body {
 	margin-right: auto;
 	width: 50%;
 	height: 50%;
+	margin-bottom: 20px;
 }
 .top {
 	background-image: url("../images/background.jpeg");
-	 background-size: cover;
+	background-size: cover;
 	font-family: 'Lato', sans-serif;
 	color: white;
 	background-color: #bbbb77;
 	text-align: center;
 	border: 5px solid white;
 	margin-bottom: 20px;
-	margin-top: 0px;
 	padding: 10px;
 }
 .footer {
+	background-image: url("../images/background.jpeg");
+	background-size: cover;
 	font-family: 'Lato', sans-serif;
 	color: white;
 	text-align: center;
