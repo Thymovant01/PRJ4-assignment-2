@@ -32,7 +32,8 @@ body {
 	margin-bottom: 20px;
 }
 .top {
-	background-color: white;
+	background-image: url("../images/background2.jpeg");
+	background-size: cover;
 	font-family: 'Lato', sans-serif;
 	color: dodgerblue;
 	text-align: center;
@@ -41,7 +42,8 @@ body {
 	padding: 10px;
 }
 .footer {
-	background-color: white;
+	background-image: url("../images/background.jpeg");
+	background-size: auto;
 	font-family: 'Lato', sans-serif;
 	color: dodgerblue;
 	text-align: center;
