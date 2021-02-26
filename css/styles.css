@@ -7,12 +7,12 @@
 	font-size: 100%; 
 }
 body {
-	background-color: #33331a;
+	background-color: gray;
 }
 .container {
 	font-family: 'Lato', sans-serif;
 	color: white;
-	background-color: #bbbb77;
+	background-color: lightgray;
 	border: 1px solid #F4F4F4;
 	text-align: center;
 	padding: 10px;
@@ -21,7 +21,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 10px;
 	margin-top: 10px;
-	border: 2px solid white;
+	border: 2px solid cornflowerblue;
 }
 #image {
 	display: block;
@@ -38,7 +38,7 @@ body {
 	color: white;
 	background-color: #bbbb77;
 	text-align: center;
-	border: 5px solid white;
+	border: 5px solid cornflowerblue;
 	margin-bottom: 20px;
 	padding: 10px;
 }
@@ -51,14 +51,14 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1px;
-	background-color: #bbbb77;
+	background-color: lightgray;
 	margin-top: 10px;
-	border: 5px solid white;
+	border: 5px solid cornflowerblue;
 	padding: 10px;
 }
 .topnav {
 	font-family: 'Lato', sans-serif;
-	background-color: #bbbb77;
+	background-color: lightgray;
 	overflow: hidden;
 	text-align: center;
 	padding: 10px;
@@ -66,32 +66,32 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width: 300px;
-	border: 2px solid white;
+	border: 2px solid cornflowerblue;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: gray;
   color: white;
 }
 .topnav a.image {
-	background-color: #878745;
+	background-color: cornflowerblue;
 	color: white;
 	padding: 5px;
 	margin: 5px;
 }
 .topnav a.containers {
-	background-color: #878745;
+	background-color: cornflowerblue;
 	color: white;
 	padding: 5px;
 	margin: 5px;
 }
 .topnav a.link-word {
-	background-color: #878745;
+	background-color: cornflowerblue;
 	color: white;
 	padding: 5px;
 	margin: 5px;
 }
 .topnav a.footer-word {
-	background-color: #878745;
+	background-color: cornflowerblue;
 	color: white;
 	padding: 5px;
 	margin: 5px;
@@ -99,11 +99,11 @@ body {
 .link {
 	font-family: 'Lato', sans-serif;
 	color: white;
-	background-color: #bbbb77;
+	background-color: lightgray;
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 	padding: 10px;
-	border: 2px solid white;
+	border: 2px solid cornflowerblue;
 }
