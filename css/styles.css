@@ -9,15 +9,11 @@
 body {
 	background-color: ghostwhite;
 }
-.container {
+.main {
 	font-family: 'Lato', sans-serif;
 	color: dodgerblue;
-	background-color: white;
-	border: 1px solid #F4F4F4;
-	text-align: center;
-	padding: 10px;
+	border: 5px solid #F4F4F4;
 	margin-bottom: 10px;
-	margin-top: 10px;
 	border: 3px solid cornflowerblue;
 }
 #image {
